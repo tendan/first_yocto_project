@@ -1,0 +1,6 @@
+[submodule "meta-custom"]
+	path = meta-custom
+	url = https://github.com/tendan/meta-first-custom-layer
+[submodule "meta-python-web-projects"]
+	path = meta-python-web-projects
+	url = https://github.com/tendan/meta-python-web-projects
